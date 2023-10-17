@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
@@ -14,4 +16,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Davide2206&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
